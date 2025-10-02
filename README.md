@@ -1,7 +1,26 @@
 # CORE Installation Guide
 
-*Link to download Ubuntu Server 22.04.5:*  
-https://drive.google.com/file/d/159dRBNG0QF0hkKz0x2Ph7w2HsQNrk2yP  
+_Script was tested on:_  
+Model:      MacBook Pro 14-inch, 2024  
+Chip:       Apple M4 Pro
+
+## Requirements  
+
+1) VMware Fusion
+2) Ubuntu Server 22.04.5 (ISO image)
+
+*Link for VMware Fusion and Ubuntu Server 22.04.5:* 
+https://drive.google.com/drive/folders/197M5xWgNGXpGoYSNiKX0CBy2-xA7q-WR
+
+        
+
+
+<!-- *Link to download Ubuntu Server 22.04.5:*  
+https://drive.google.com/file/d/159dRBNG0QF0hkKz0x2Ph7w2HsQNrk2yP   -->
+
+<!-- <details>
+    <summary></summary>
+</details> -->
 
 Update and install git *(you won't have it if you install minimal version of Ubuntu Server 22.04.5 with no GUI)*  
 
